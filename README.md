@@ -1,1 +1,1 @@
-# Welcome to DBAutomation Testcases
+# Welcome to DBAutomation Testcases project
